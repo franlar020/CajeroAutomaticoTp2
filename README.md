@@ -41,6 +41,24 @@ El código está organizado de manera modular siguiendo la estructura de paquete
   <img src="Imagenes necesarias/Diagrama de estado - Cajero automatico.png" alt="Diagrama de estados" width="700"/>
 </p>
 
+## 🧪 Pruebas
+Pruebas solicitadas en el enunciado.
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" valign="center">
+        <b>Prueba de excepciones</b><br />
+        <img src="Imagenes necesarias/Capturas - excepciones.jpeg" width="450"/>
+      </td>
+      <td align="center" valign="center">
+        <b>Prueba de operaciones e Historial formateado</b><br />
+        <img src="Imagenes necesarias/Capturas - operaciones.jpeg" width="450"/>
+      </td>
+    </tr>
+  </table>
+</p>
+
 ## 📋 Requisitos Técnicos
 * **Inmutabilidad:** Atributos `final` para identificadores críticos como `numeroCuenta`.
 * **Precisión Financiera:** Uso de `double` (o `BigDecimal`) para el manejo de saldos.
