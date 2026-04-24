@@ -19,7 +19,7 @@ Introducir conceptos de estado, inmutabilidad y manejo de errores en sistemas tr
 * **Interfaz de Usuario:** Menú interactivo en consola mediante `switch expressions` y validación de entrada de datos (manejo de `InputMismatchException`).
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/be/79/3e/be793efbdfe10acc8e91540a0efe29eb.gif" alt="Cajero refencia" width="900"/>
+  <img src="https://i.pinimg.com/originals/be/79/3e/be793efbdfe10acc8e91540a0efe29eb.gif" alt="Cajero loco" width="900"/>
 </p>
 
 ## 🛠️ Manejo de Excepciones
