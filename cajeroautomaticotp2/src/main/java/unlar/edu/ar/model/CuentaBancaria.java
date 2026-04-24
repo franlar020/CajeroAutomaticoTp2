@@ -1,4 +1,4 @@
-package unlar.com.ar.model;
+package unlar.edu.ar.model;
 
 import java.util.ArrayList;
 import lombok.*;
