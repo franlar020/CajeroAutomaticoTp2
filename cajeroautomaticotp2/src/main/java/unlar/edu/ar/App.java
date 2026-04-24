@@ -1,4 +1,4 @@
-package unlar.com.ar;
+package unlar.edu.ar;
 
 /**
  * Hello world!
