@@ -69,7 +69,7 @@ El código está organizado de manera modular siguiendo la estructura de paquete
       </td>
       <td align="center" valign="center" width="30%">
         <a href="https://github.com/VirginiaVeraHerrera">
-          <img src="Imagenes necesarias/Vir.jpeg" width="370"/><br />
+          <img src="Imagenes necesarias/Vir.jpeg" width="300"/><br />
           <sub><b>Virginia Vera</b></sub>
         </a>
       </td>
