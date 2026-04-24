@@ -1,0 +1,23 @@
+# Compilados de Java (Bytecode)
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# Carpeta de salida de compilación (Maven)
+target/
+
+# Configuraciones de Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Archivos del Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Configuración de herramientas de Java
+.project
+.classpath
+.settings/
+.factorypath
