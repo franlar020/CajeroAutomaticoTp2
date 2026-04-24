@@ -18,6 +18,10 @@ Introducir conceptos de estado, inmutabilidad y manejo de errores en sistemas tr
 * **Logging y Auditoría:** Registro detallado de cada operación (timestamp, tipo, monto y saldo resultante) utilizando `StringBuilder` para optimización.
 * **Interfaz de Usuario:** Menú interactivo en consola mediante `switch expressions` y validación de entrada de datos (manejo de `InputMismatchException`).
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/be/79/3e/be793efbdfe10acc8e91540a0efe29eb.gif" alt="Cajero refencia" width="900"/>
+</p>
+
 ## 🛠️ Manejo de Excepciones
 El sistema garantiza la integridad mediante una jerarquía de excepciones personalizadas:
 1. `SaldoInsuficienteException`: Se dispara cuando el monto solicitado supera el saldo disponible.
@@ -51,21 +55,21 @@ El código está organizado de manera modular siguiendo la estructura de paquete
 <p align="center">
   <table align="center">
     <tr>
-      <td align="center" valign="top" width="33%">
+      <td align="center" valign="top" width="30%">
         <a href="https://github.com/IsmaDeveloper16">
-          <img src="Imagenes necesarias/Isma.jpeg" width="300"/><br />
+          <img src="Imagenes necesarias/Isma.jpeg" width="250"/><br />
           <sub><b>Ismael Flores</b></sub>
         </a>
       </td>
-      <td align="center" valign="top" width="33%">
+      <td align="center" valign="top" width="30%">
         <a href="https://github.com/franlar020">
-          <img src="Imagenes necesarias/Fran.jpeg" width="300"/><br />
+          <img src="Imagenes necesarias/Fran.jpeg" width="260"/><br />
           <sub><b>Francisco Antonio Gonzalez</b></sub>
         </a>
       </td>
-      <td align="center" valign="top" width="33%">
+      <td align="center" valign="top" width="30%">
         <a href="https://github.com/VirginiaVeraHerrera">
-          <img src="Imagenes necesarias/Vir.jpeg" width="600"/><br />
+          <img src="Imagenes necesarias/Vir.jpeg" width="325"/><br />
           <sub><b>Virginia Vera</b></sub>
         </a>
       </td>
